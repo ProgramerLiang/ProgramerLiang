@@ -37,7 +37,7 @@ Wayland 下 fcitx5 文本注入默认 fail-closed，需显式允许短暂停用�
 | 项目 | 说明 | 主要语言 |
 | :--- | :--- | :--- |
 | [ESHTTC-Senior-IT](https://github.com/ProgramerLiang/ESHTTC-Senior-IT) | 教师进修学校附属实验学校高中信息课 | Python |
-| [salt-player-for-linux](https://github.com/ProgramerLiang/salt-player-for-linux) | Salt Player（椒盐音乐）的 Linux 桌面版，基于 SaltUI + Compose Multiplatform：本地扫描、内嵌封面、四种播放模式、配置持久化 | Kotlin |
+| [salt-shaker](https://github.com/ProgramerLiang/salt-shaker) | 椒盐罐（Salt Shaker）：Salt Player（椒盐音乐）的 Linux 社区衍生版，基于 SaltUI + Compose Multiplatform，平板式界面、可插拔音频后端与 MPRIS 集成 | Kotlin |
 | [oh-my-omp](https://github.com/ProgramerLiang/oh-my-omp) | [oh-my-pi](https://github.com/can1357/oh-my-pi) 的终端配置面板，用 omp 自己的 TUI 框架做成标签页式交互界面 | TypeScript |
 | [SinWaveGame](https://github.com/ProgramerLiang/SinWaveGame) | 正弦型函数小游戏，用方向键调振幅 A、角频率 ω、初相 φ 观察波形变化 | Python |
 | [hangman-for-mb9p](https://github.com/ProgramerLiang/hangman-for-mb9p) | 小米手环 9 Pro 上的 HANGMAN 猜单词小游戏（Vela JS），含连胜计分与按键振动反馈 | JavaScript |
@@ -49,7 +49,7 @@ Wayland 下 fcitx5 文本注入默认 fail-closed，需显式允许短暂停用�
 - **语言** — Python · JavaScript · TypeScript · Kotlin
 - **运行时与框架** — Node.js · Compose Multiplatform · Vela JS
 - **平台** — Linux（Wayland / X11）
-- **工程** — Git · GitHub Actions（见 `salt-player-for-linux` 的 CI）
+- **工程** — Git · GitHub Actions（见 `salt-shaker` 的 CI）
 
 <sub>想查具体依赖和构建方式？每个仓库的 README 里都写了版本要求和缺依赖时的报错行为。</sub>
 
